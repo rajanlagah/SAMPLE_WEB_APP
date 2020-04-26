@@ -1,4 +1,4 @@
-<h2 class="alert alert-success">Congratulations, your <a class="alert-link" href="http://luminusweb.net">Luminus</a> site is ready!</h2>
+<h2 class="alert alert-success">Congratulations, your <a class="alert-link" href="http://luminusweb.net">Luminus</a> site is ready! V2 </h2>
 
 This page will help guide you through the first steps of building your site.
 
