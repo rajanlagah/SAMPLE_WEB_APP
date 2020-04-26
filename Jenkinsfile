@@ -6,7 +6,7 @@ def GIT_COMMIT_HASH
 pipeline {
     agent any
     stages {
-        stage('Checkout Source Code and Logging Into Registry') {
+        stage('Checkout Source Code ji and Logging Into Registry') {
             steps {
                 echo 'Logging Into the Private ECR Registry'
                 script {
